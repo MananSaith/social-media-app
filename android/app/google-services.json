@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317827878730",
+    "project_id": "linza-social-app",
+    "storage_bucket": "linza-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317827878730:android:ac7ec15fa68670fd2fbbb3",
+        "android_client_info": {
+          "package_name": "com.manan.linzasocialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317827878730-p600scvk3a0n2g6b3f218fcu1m9tlgaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manan.linzasocialapp",
+            "certificate_hash": "c29680a36f89de17986293d4b2415478c37fe74e"
+          }
+        },
+        {
+          "client_id": "317827878730-shmt8e2ogd496j01j20q1i7al4012qbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUtt74eABuKq8pn1qmeiUQwzby9wBL1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317827878730-shmt8e2ogd496j01j20q1i7al4012qbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
